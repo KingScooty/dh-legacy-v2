@@ -1,9 +1,12 @@
 [submodule "api"]
 	path = api
 	url = git@github.com:KingScooty/dh-api.git
+  branch = master
 [submodule "web"]
 	path = web
 	url = git@github.com:KingScooty/dh-web.git
+  branch = master
 [submodule "worker"]
 	path = worker
 	url = git@github.com:KingScooty/dh-worker.git
+  branch = master
