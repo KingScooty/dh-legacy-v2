@@ -22,7 +22,10 @@ API:
   - Twit
   - Cradle
 
-
+```sh
+git submodule init
+git submodule update --recursive
+```
 
 Useful resources:
 - https://github.com/drd/react-isomorphic-boilerplate
